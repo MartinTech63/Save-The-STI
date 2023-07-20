@@ -1,0 +1,39 @@
+{
+  "contact": "linkinito",
+  "templates": [
+    {
+      "name": "France",
+      "sources": [
+        "https://i.imgur.com/AuQDi7x.png"
+      ],
+      "x": 0,
+      "y": 800
+    },
+    {
+      "name": "Femmes de France",
+      "sources": [
+        "https://i.imgur.com/iygHl1k.png"
+      ],
+      "x": 0,
+      "y": 300
+    },
+    {
+      "name": "STI",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131700465789304963/1131703348211490939/New_Piskel.png"
+      ],
+      "x": 0,
+      "y": 400
+    },
+    {
+      "name": "GP Explorer",
+      "sources": [
+        "https://i.imgur.com/lqF7rSh.png"
+      ],
+      "x": 30,
+      "y": 500
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
