@@ -1,54 +1,54 @@
 {
-  "templates": [
-    {
-      "name": "France",
-      "sources": [
-        "https://i.imgur.com/I0aGkow.png"
-      ],
-      "x": 0,
-      "y": 650
-    },
-    {
-      "name": "Femmes de France",
-      "sources": [
-        "https://i.imgur.com/iygHl1k.png"
-      ],
-      "x": 0,
-      "y": 300
-    },
-    {
-      "name": "STI3",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1131700465789304963/1131703348211490939/New_Piskel.png"
-      ],
-      "x": 136,
-      "y": 641
-    },
-    {
-      "name": "STI2",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1131700465789304963/1131703348211490939/New_Piskel.png"
-      ],
-      "x": 136,
-      "y": 650
-    },
-    {
-      "name": "STI1",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1131700465789304963/1131703348211490939/New_Piskel.png"
-      ],
-      "x": 136,
-      "y": 659
-    },
-    {
-      "name": "GP Explorer",
-      "sources": [
-        "https://i.imgur.com/60VIbRX.png"
-      ],
-      "x": 30,
-      "y": 500
-    }
-  ],
-  "whitelist": [],
-  "blacklist": []
+"templates": [
+{
+"name": "France",
+"sources": [
+"https://i.imgur.com/I0aGkow.png"
+],
+"x": 0,
+"y": 600
+},
+{
+"name": "Femmes de France",
+"sources": [
+"https://i.imgur.com/iygHl1k.png"
+],
+"x": 0,
+"y": 300
+},
+{
+"name": "STI3",
+"sources": [
+"https://cdn.discordapp.com/attachments/1131700465789304963/1131703348211490939/New_Piskel.png"
+],
+"x": 136,
+"y": 641
+},
+{
+"name": "STI2",
+"sources": [
+"https://cdn.discordapp.com/attachments/1131700465789304963/1131703348211490939/New_Piskel.png"
+],
+"x": 136,
+"y": 650
+},
+{
+"name": "STI1",
+"sources": [
+"https://cdn.discordapp.com/attachments/1131700465789304963/1131703348211490939/New_Piskel.png"
+],
+"x": 136,
+"y": 659
+},
+{
+"name": "GP Explorer",
+"sources": [
+"https://i.imgur.com/60VIbRX.png"
+],
+"x": 30,
+"y": 500
+}
+],
+"whitelist": [],
+"blacklist": []
 }
