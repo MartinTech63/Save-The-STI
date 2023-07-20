@@ -1,4 +1,5 @@
 {
+"contact": "Martin Tech",
 "templates": [
 {
 "name": "France",
@@ -15,6 +16,14 @@
 ],
 "x": 0,
 "y": 300
+},
+{
+"name": "GP Explorer",
+"sources": [
+"https://i.imgur.com/60VIbRX.png"
+],
+"x": 30,
+"y": 500
 },
 {
 "name": "STI3",
@@ -39,14 +48,6 @@
 ],
 "x": 136,
 "y": 659
-},
-{
-"name": "GP Explorer",
-"sources": [
-"https://i.imgur.com/60VIbRX.png"
-],
-"x": 30,
-"y": 500
 }
 ],
 "whitelist": [],
