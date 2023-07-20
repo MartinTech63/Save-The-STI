@@ -17,7 +17,15 @@
       "y": 300
     },
     {
-      "name": "STI",
+      "name": "STI3",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131700465789304963/1131703348211490939/New_Piskel.png"
+      ],
+      "x": 136,
+      "y": 641
+    },
+    {
+      "name": "STI2",
       "sources": [
         "https://cdn.discordapp.com/attachments/1131700465789304963/1131703348211490939/New_Piskel.png"
       ],
