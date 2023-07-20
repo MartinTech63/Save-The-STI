@@ -25,6 +25,14 @@
       "y": 650
     },
     {
+      "name": "STI1",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131700465789304963/1131703348211490939/New_Piskel.png"
+      ],
+      "x": 136,
+      "y": 659
+    },
+    {
       "name": "GP Explorer",
       "sources": [
         "https://i.imgur.com/60VIbRX.png"
